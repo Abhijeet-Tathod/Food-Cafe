@@ -1,5 +1,4 @@
-# Food-Cafe-A-Food-Mobile-App-React-Native
-
+# Food-Cafe-A-Food-Mobile-App-React-Native (Learning)
 
 ## Get Started
 
@@ -27,3 +26,17 @@ Like `npm start`, but also attempts to open your app on a connected Android devi
 
 <br />
 
+## Screenshots
+
+<div class="flex w-80">
+
+### Home Screen
+![Home](/assets/screenshots/Home.jpg)
+
+### Menu Screen
+![Menu](/assets/screenshots/Filter%20Page.jpg)
+
+### ItemInfo Screen
+![ItemInfo](/assets/screenshots/Item%20info.jpg)
+
+</div>
