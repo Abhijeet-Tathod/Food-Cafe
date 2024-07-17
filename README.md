@@ -26,6 +26,11 @@ Like `npm start`, but also attempts to open your app on a connected Android devi
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
+### Home Screen
+![Home Screen](screenshots/home_screen.png)
+
+### Menu Screen
+![Menu Screen](screenshots/menu_screen.png)
+
+### Order Screen
+![Order Screen](screenshots/order_screen.png)
