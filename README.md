@@ -1,15 +1,14 @@
 # Food-Cafe-A-Food-Mobile-App-React-Native
 
-
 ## Get Started
 
-install dev dependencies
+Install dev dependencies
 
 ### `npm install`
 
 ## Then
 
-Run The app
+Run the app
 
 ### `npm start`
 
@@ -25,5 +24,8 @@ Like `npm start`, but also attempts to open your app in the iOS Simulator if you
 
 Like `npm start`, but also attempts to open your app on a connected Android device or emulator. Requires an installation of Android build tools (see [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html) for detailed setup).
 
-<br />
+## Screenshots
 
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 3](screenshots/screenshot3.png)
